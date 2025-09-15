@@ -6,6 +6,9 @@
     "period": "2024년 3월 1일 ~ 2024년 8월 31일",
     "skills": ["HTML/CSS", "Salesforce", "javascript", "Apex"],
     "team": "15명",
+    "images": [
+      "images/project2-1.jpg"
+    ],
     "links": {
       "github": "https://github.com/rookieofcentury/SRMPrj"
     },
@@ -19,6 +22,9 @@
     "period": "2023년 7월 17일 ~ 2024년 1월 31일",
     "skills": ["HTML/CSS", "Salesforce", "javascript", "Apex"],
     "team": "10명",
+    "images": [
+      "images/project5-1.png"
+    ],
     "links": {
       "github": ""
     },
